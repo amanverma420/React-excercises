@@ -1,0 +1,162 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.app-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 3rem 1rem;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #222;
+  background-color: #f5f7fa;
+  min-height: 100vh;
+}
+
+.app-title {
+  text-align: center;
+  margin-bottom: 3rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.exercises-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+  padding: 0 1rem;
+}
+
+.exercise-container {
+  padding: 2.5rem 2rem;
+  border: 1px solid #5a6edc;
+  border-radius: 12px;
+  background-color: white;
+  margin-bottom: 2.5rem;
+  text-align: left;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  box-shadow: 0 4px 8px rgba(90, 110, 220, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+
+.exercise-container:hover {
+  box-shadow: 0 8px 16px rgba(90, 110, 220, 0.2);
+}
+
+.exercise-title {
+  color: #2c3e50;
+  margin-bottom: 0;
+  font-weight: 700;
+  font-size: 1.6rem;
+  line-height: 1.3;
+  border-bottom: 2px solid #5a6edc;
+  padding-bottom: 0.3rem;
+}
+
+.exercise-list {
+  list-style-type: disc;
+  padding-left: 1.8rem;
+  margin-bottom: 1.2rem;
+  font-size: 1rem;
+  color: #444;
+}
+
+.exercise-list li {
+  margin-bottom: 0.6rem;
+  line-height: 1.4;
+}
+
+.exercise-button {
+  margin-top: 0.6rem;
+  padding: 0.5rem 1rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  border: 1.5px solid #5a6edc;
+  border-radius: 6px;
+  background-color: white;
+  color: #5a6edc;
+  align-self: flex-start;
+  font-weight: 600;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.exercise-button:hover {
+  background-color: #5a6edc;
+  color: white;
+}
+
+.todo-list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.3rem 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.todo-activity {
+  flex-grow: 1;
+  font-size: 1rem;
+  color: #333;
+}
+
+.todo-delete-button {
+  margin-left: 1rem;
+  padding: 0.3rem 0.6rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  border: 1px solid #d9534f;
+  border-radius: 4px;
+  background-color: white;
+  color: #d9534f;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.todo-delete-button:hover {
+  background-color: #d9534f;
+  color: white;
+}
